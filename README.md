@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbrarShafin/mi_card.git
+    git clone https://github.com/AbrarShafin/dice_flutter.git
     ```
 2. Navigate to the project directory:
     ```bash
